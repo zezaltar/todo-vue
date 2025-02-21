@@ -10,4 +10,3 @@ const props = defineProps(['tarefasPendentes'])
         </p>
     </header>
 </template>
-
